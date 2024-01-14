@@ -1,0 +1,63 @@
+.post-section{
+
+
+
+
+}
+
+.header{
+display: flex;
+justify-content: center;
+color: aliceblue;
+
+}
+
+
+.para{
+   
+   align-items: center;
+   background-color: rgba(251, 251, 251,0.2);
+   color: rgb(255, 255, 255);
+   font-size: 25px;
+   overflow:hidden;
+   width: fit-content;
+   height: fit-content;
+   block-size: fit-content;
+   padding: 4px;
+   border-radius: 3px;
+   margin: 50px;
+
+
+}
+
+
+.form-post{
+color: rgb(255, 255, 255);
+
+
+}
+
+
+
+.email-link{
+
+   color: aliceblue;
+   font-size: 20px;
+   text-decoration: underline;
+   margin: 100px; margin: 100px;
+
+}
+
+.email-link:hover{
+
+    color: aliceblue;
+    font-size: 20px;
+    width: fit-content;
+    height: fit-content;
+    cursor: pointer;
+    background-color: rgba(251, 251, 251,0.2);
+    text-decoration: underline;
+    font-weight: bold;
+    margin: 100px;
+    padding: 1px;
+ }
